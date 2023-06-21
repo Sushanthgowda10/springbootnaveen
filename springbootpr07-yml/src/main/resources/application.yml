@@ -1,0 +1,6 @@
+cust:
+ info:
+  cust-no: 1012
+  cust-name: sush
+  cust-addrs: bengalore
+  bill-amt: 20
